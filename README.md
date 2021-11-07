@@ -3,6 +3,8 @@ Simple website containing recipes for some of the items crafted by the dwarfs th
 
 Made while following The Odin Project.
 
+### [Live Preview](https://pastephenson.github.io/Odin-Recipes/)
+
 ## Image Sources
 Dwarf - Image by [OpenClipart-Vectors](https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=156518) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=156518)
 
