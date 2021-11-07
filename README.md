@@ -1,7 +1,7 @@
 # Odin Recipes
 Simple website containing recipes for some of the items crafted by the dwarfs throughout Norse Mythology.
 
-Made while following The Odin Project.
+Made while following [The Odin Project](https://www.theodinproject.com).
 
 ### [Live Preview](https://pastephenson.github.io/Odin-Recipes/)
 
